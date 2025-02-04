@@ -1,2 +1,4 @@
 *.pth
-gpt2/*
+**/gpt2/**
+**/__pycache__/**
+**/.ipynb_checkpoints/*
